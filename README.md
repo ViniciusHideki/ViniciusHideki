@@ -13,7 +13,7 @@
 <br /> 
 
 * 📫 Atualmente sou graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
-* 🔭 Tenho conhecimento de modelagem estatística e algoritmo de aprendizado de máquina
+* 🔭 Tenho conhecimentos de modelagens estatísticas e algoritmos de aprendizado de máquina
 * 👯 Busco uma vaga de estágio ou júnior na área de Data Science ou Estatística
 
 <br /> 
