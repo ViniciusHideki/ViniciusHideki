@@ -7,14 +7,14 @@
 </div>
 
 <div align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="400" height="400" >
+<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="700" height="700" >
 </div>
 
 <br /> 
 
-* Atualmente sou graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
-* Tenho conhecimento de modelagem estatística e algoritmo de aprendizado de máquina
-* Busco uma vaga de estágio ou júnior na área de Data Science ou Estatística
+* 📫 Atualmente sou graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
+* 🔭 Tenho conhecimento de modelagem estatística e algoritmo de aprendizado de máquina
+* 👯 Busco uma vaga de estágio ou júnior na área de Data Science ou Estatística
 
 <br /> 
 
@@ -24,8 +24,8 @@
 
 <br /> 
 
-* Trabalho principalmente com a linguagem **R** e **Python**
-* No momento, estou aprendendo **SQL** e **Web Scrapping** (em Python)
+* 🔭 Trabalho principalmente com a linguagem **R** e **Python**
+* 🌱 No momento, estou aprendendo **SQL** e **Web Scrapping** (em Python)
 
 
 
