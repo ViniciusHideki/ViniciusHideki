@@ -36,7 +36,7 @@
 <br /> 
 
 * 🔭 Trabalho principalmente com a linguagem **R** e **Python**
-* 🌱 No momento, estou aprendendo **SQL** e **Web Scrapping** (em Python)
+* 🌱 No momento, estou aprendendo **SQL** e **Web Scrapping** 
 
 
 
