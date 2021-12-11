@@ -14,7 +14,7 @@
 <br /> 
 
 <div align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="600" height="600" >
+<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="500" height="500" >
 </div>
 <p align="center">
   (Créditos a Dualvoidanima)
