@@ -6,14 +6,31 @@
   <a href="https://www.linkedin.com/in/vinicius-hideki-yamada-santiago-26082000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<div align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="600" height="600" >
-</div>
+<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
 
 <br /> 
 
-* 📫 Atualmente sou graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
-* 🔭 Tenho conhecimentos de modelagens estatísticas e algoritmos de aprendizado de máquina
+<div align="center"> 
+<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="600" height="600" >
+</div>
+<p align="center">
+  (Créditos a Dualvoidanima)
+</p>
+
+
+<br /> 
+
+* 📫 Graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
+* 🔭 Tenho conhecimento em modelos estatísticos e algoritmos de aprendizado de máquina
 * 👯 Busco uma vaga de estágio ou júnior na área de Data Science ou Estatística
 
 <br /> 
