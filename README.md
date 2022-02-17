@@ -12,7 +12,7 @@
 <br /> 
 
 <div align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="500" height="500" >
+<img align="center" src="https://user-images.githubusercontent.com/94398669/145652307-c077509e-8185-4f38-a27c-ff2161d343ff.gif"  width="300" height="300" >
 </div>
 <p align="center">
   (Créditos a Dualvoidanima)
@@ -25,6 +25,9 @@
 * 🔭 Tenho conhecimento em modelos estatísticos e algoritmos de aprendizado de máquina
 * 👯 Busco uma vaga de estágio ou júnior na área de Data Science ou Estatística
 
+
+
+<!--
 <br /> 
 
 <div align="center">
@@ -32,10 +35,11 @@
 </div>
 
 <br /> 
+ -->
 
 * 🔭 Trabalho principalmente com a linguagem **R** e **Python**
 * 🌱 No momento, estou aprendendo **SQL** e **Web Scrapping** 
-
+ 
 
 
 
