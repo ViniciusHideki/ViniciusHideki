@@ -1,6 +1,4 @@
 
-# É um prazer te conhecer, sou o Vinicius Hideki 
-
 <br /> 
 
 <div align="center"> 
