@@ -23,7 +23,7 @@
 
 * 📫 Graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
 * 🔭 Tenho conhecimento em modelos estatísticos e algoritmos de aprendizado de máquina
-* 👯 Busco uma vaga de estágio ou júnior na área de Data Science ou Estatística
+* 👯 Busco uma vaga de júnior na área de Data Science e/ou Estatística
 
 
 
@@ -38,7 +38,7 @@
  -->
 
 * 🔭 Trabalho principalmente com a linguagem **R** e **Python**
-* 🌱 No momento, estou aprendendo **SQL** e **Web Scrapping** 
+* 🌱 No momento, estou aprendendo **SQL** (SQL Server, MySQL, PostgreeSQL, Oracle) 
  
 
 
