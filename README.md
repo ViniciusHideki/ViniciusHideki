@@ -21,7 +21,7 @@
 
 <br /> 
 
-* 📫 Graduando em Estatística na Universidade Federal de São Carlos **(UFSCar)**
+* 📫 Graduado em Estatística na Universidade Federal de São Carlos **(UFSCar)**
 * 🔭 Tenho conhecimento em modelos estatísticos e algoritmos de aprendizado de máquina
 * 👯 Busco uma vaga de júnior na área de Data Science e/ou Estatística
 
